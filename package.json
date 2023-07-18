@@ -1,0 +1,11 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Ian Kamau",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
